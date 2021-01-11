@@ -45,3 +45,5 @@ It will open jupyter notebook in your default browser then you can open the note
 [4] Ding, Nan, et al. "Bayesian sampling using stochastic gradient thermostats." Advances in neural information processing systems 27 (2014): 3203-3211.
 
 [5] Moss, Adam. "Accelerated Bayesian inference using deep learning." Monthly Notices of the Royal Astronomical Society 496.1 (2020): 328-338.
+
+[6] Max Welling and Yee Whye Teh. 2011. Bayesian learning via stochastic gradient langevin dynamics. In Proceedings of the 28th International Conference on International Conference on Machine Learning (ICML'11). Omnipress, Madison, WI, USA, 681–688.
