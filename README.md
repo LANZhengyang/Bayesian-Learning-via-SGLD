@@ -1,7 +1,7 @@
 # Bayesian-Learning-via-SGLD
 
 Implementation of the algorithm in the paper [Bayesian Learning via Stochastic Gradient Langevin Dynamics](http://www.stats.ox.ac.uk/~teh/research/compstats/WelTeh2011a.pdf).
-You can find my report [here](https://github.com/LANZhengyang/Bayesian-Learning-via-SGLD/blob/main/report.pdf)
+You can find my report [here](https://github.com/LANZhengyang/Bayesian-Learning-via-SGLD/blob/main/Report.pdf)
 
 ![graphical models](images/2d.png)
 
